@@ -19,3 +19,8 @@ while True:
 
 if __name__ == "__main__":
 	main()
+
+def view_tasks():
+	# Duyệt list tasks và in ra
+	# Ví dụ: 1. Học bài [Pending]
+	pass
