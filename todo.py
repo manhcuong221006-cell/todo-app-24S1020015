@@ -24,3 +24,8 @@ def view_tasks():
 	# Duyệt list tasks và in ra
 	# Ví dụ: 1. Học bài [Pending]
 	pass
+
+def mark_task_done():
+	# Hiển thị list, cho người dùng nhập số thứ tự
+ 	# Cập nhật status của task đó thành "Done"
+	pass
